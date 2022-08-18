@@ -1,0 +1,11 @@
+{
+    "compraAmazon":{
+
+        "seeker":"#twotabsearchtextbox",
+        "searchBtn": "#nav-search-submit-button",
+        "chooseProduct":"//span[contains(text(),'Funko POP Animation: Yu-Gi-Oh - Blue Eyes Toon Dra')]",
+        "productList":"span[class='a-size-base-plus a-color-base a-text-normal']"
+
+
+    }
+}
